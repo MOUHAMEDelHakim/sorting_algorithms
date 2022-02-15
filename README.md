@@ -1,2 +1,12 @@
 # sorting_algorithms
-Bubble sort in C is a straightforward sorting algorithm that checks and swaps elements if they are not in the intended order. It compares two adjacent elements to find which one is greater or lesser and switches them based on the given condition until the final place of the element is found.
+Types of Sorting Algorithms:
+Quick Sort.
+Bubble Sort.
+Merge Sort.
+Insertion Sort.
+Selection Sort.
+Heap Sort.
+Radix Sort.
+Bucket Sort
+https://www.toptal.com/developers/sorting-algorithms.
+![alt tag](https://www.google.com/search?q=sorting_algorithms&sxsrf=APq-WBuB0xejiussEeeY-yJjm-40UvUYSw:1644912433890&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnrLuqoIH2AhV_hP0HHY9rBbYQ_AUoAXoECAIQAw&biw=1366&bih=566&dpr=1#imgrc=ExNzi-HdGVyZGM)
