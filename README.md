@@ -9,4 +9,4 @@ Heap Sort.
 Radix Sort.
 Bucket Sort
 https://www.toptal.com/developers/sorting-algorithms.
-[![](hhttps://www.google.com/search?q=sorting_algorithms&sxsrf=APq-WBuB0xejiussEeeY-yJjm-40UvUYSw:1644912433890&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnrLuqoIH2AhV_hP0HHY9rBbYQ_AUoAXoECAIQAw&biw=1366&bih=566&dpr=1#imgrc=ExNzi-HdGVyZGM)
+[![](https://www.google.com/url?sa=i&url=https%3A%2F%2Flamfo-unb.github.io%2F2019%2F04%2F21%2FSorting-algorithms%2F&psig=AOvVaw39Jerus7rTA09hX00wJvrp&ust=1644998836601000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDS8q2ggfYCFQAAAAAdAAAAABAN)
